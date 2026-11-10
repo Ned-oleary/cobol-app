@@ -1,0 +1,14 @@
+# Build output
+build/
+*.o
+*.so
+*.dylib
+*.c.h
+*.c.l*.h
+*.i
+*.lst
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
